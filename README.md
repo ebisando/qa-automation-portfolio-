@@ -61,7 +61,7 @@ This portfolio highlights my **QA insights, strategies, automation skills, API t
 ---
 
 ## 📬 Contact
-- LinkedIn: [linkedin.com/in/abbyelee](#)  
+- LinkedIn: [[linkedin.com/in/abby-lee](#)](https://www.linkedin.com/in/abbyelee/)   
 - GitHub: [github.com/ebisando](#)  
 - Email: abbylee.ca@gmail.com
 
